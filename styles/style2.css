@@ -1,0 +1,203 @@
+body
+{
+	background-color: #f8f8f8;
+	background-image: url("../images/image.jpg");	
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	
+}
+
+#mainimg
+{
+	border-radius: 25px;
+}
+
+.logout
+{
+	padding: 2%;
+	background-color: #eee;
+	width: 40%;
+	color: black;
+	border-radius: 25px;
+	margin-bottom: 5%;
+	font-size: 140%;
+	color: #555;
+	
+}
+
+ul
+{
+	display: flex;
+}
+
+
+.hello
+{
+	color: white;
+	font-size: 150%;
+	
+}
+
+#mainheader img 
+{
+	width:35%;
+	height:auto;
+	margin:1% 0 1% 0;
+}
+
+* 
+{
+	margin: 0px auto;
+	padding: 0px;
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+}
+
+#cover 
+{
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 150px;
+	background-image: url("../images/film.jpeg");
+	background-repeat: 2;
+	background-size: absolute;
+	background-position: left;
+}
+
+.navbar-left li
+{
+	padding: 12% 0%;
+	font-size: 140%;
+	font-weight: bold;	
+	margin-left: -0.8%;
+	margin-right: 0;
+	
+}
+
+#home
+{
+	margin-left: -6%;
+}
+
+.movie li
+{
+	padding: 8% 0%;
+	margin-left: -0.8%;
+	
+}
+#movie
+{
+	margin-left: -4%;
+}
+
+.dropdown
+{
+	padding: 35% 1%;
+	font-size: 150%;
+	font-weight: bold;
+	margin-left: -10%;
+}
+
+#about 
+{
+	font-size: 150%;
+	color: white;
+}
+
+#about h1
+{
+	font-size: 200%;
+	font-weight: bold;
+}
+
+#ci
+{
+	font-size: 100%;
+	color: white;
+}
+
+#contact
+{
+	font-size: 150%;
+	color: black;	
+} 
+#back
+{
+	background: url('../images/films.jpeg')top left;
+}
+
+#contact h1
+{
+	font-size: 200%;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+
+#contact1
+{
+	font-size: 150%;
+	color: black;	
+} 
+
+#contact1 h1
+{
+	font-size: 200%;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.form
+{
+	margin: 20%;
+	padding: 5%;
+	background-color: white;
+	display:block;
+	border-radius: 5%;
+    
+}
+#title
+{
+	font-size: 115%;
+}
+#title1
+{
+	font-size:90%;
+}
+#vote
+{
+	font-size: 130%;
+	color: red;
+}
+tr th p
+{
+	font-size: 125%;
+	color: navy;
+}
+
+.form1
+{
+	margin: 10%;
+	padding: 5%;
+	background-color: white;
+	display:block;
+	border-radius: 5%;
+}
+.form2
+{
+	margin: 5%;
+	padding: 5%;
+	background-color: white;
+	display:block;
+	border-radius: 5%;
+}
+#rate
+{
+	width: 25%;
+}
+#share
+{
+	font-size:70%;
+}
+

@@ -1,0 +1,74 @@
+.navbar-left li
+{
+	padding: 7% 1%;
+	font-size: 170%;
+	font-weight: bold;	
+	margin-left: -1%;
+	
+}
+
+#home
+{
+	margin-left: -5%;
+}
+
+.dropdown
+{
+	padding: 30% 2%;
+	font-size: 170%;
+	font-weight: bold;
+	margin-left: -55%;
+}
+
+#lang
+{
+	margin: 25% 0%;
+	padding: 15% 0%;
+}
+#sin
+{
+	margin: 25% 0%;
+	padding: 15% 0%;
+}
+
+#about
+{
+	font-size: 150%;
+	color: white;
+}
+
+#about h1
+{
+	font-size: 200%;
+	font-weight: bold;
+}
+
+#ci
+{
+	font-size: 100%;
+	color: white;
+}
+
+
+#contact
+{
+	font-size: 150%;
+	color: white;
+}
+
+#contact h1
+{
+	font-size: 200%;
+	font-weight: bold;
+}
+#contact1
+{
+	font-size: 150%;
+	color: black;
+}
+#contact1 h1
+{
+	font-size: 200%;
+	font-weight: bold;
+	text-decoration:underline;
+}
